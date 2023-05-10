@@ -1,4 +1,4 @@
 #!/bin/sh
 export LD_LIBRARY_PATH=/usr/local/lib
-./test_agar
-
+#./test_agar
+./test_agar_opengl
